@@ -6,7 +6,19 @@ open YouTube
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<!apk download---
+Pawaneshsingh/Pawaneshsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.open YouTube
+
+- 👋 Hi, I’m @Pawaneshsingh
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
 <!---
 Pawaneshsingh/Pawaneshsingh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+--->
+
 --->
